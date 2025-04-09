@@ -1,4 +1,4 @@
-const dropdownButtons = document.querySelectorAll('.dropdown-toggle');
+const dropdownButtons = document.querySelectorAll('.toggle');
 
 dropdownButtons.forEach((dropdownButton) =>
   dropdownButton.addEventListener('click', () => {
