@@ -14,4 +14,4 @@ It handles visibility and interactions — you bring the markup and behavior.
 ## 📦 Installation
 
 ```bash
-npm install @yriondino/dropdown
+npm install @riondino/dropdown
