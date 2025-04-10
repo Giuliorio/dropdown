@@ -9,6 +9,12 @@ document.addEventListener('click', (event) => {
   }
 });
 
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    closeAllDropdowns();
+  }
+});
+
 dropdownButtons.forEach((dropdownButton) =>
   dropdownButton.addEventListener('click', () => {
     const dropdown = dropdownButton.parentElement;
