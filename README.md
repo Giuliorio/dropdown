@@ -1,4 +1,4 @@
-# @giuliorio/dropdown
+# @riondino/dropdown
 
 A lightweight JavaScript utility for toggling dropdown menus.  
 It handles visibility and interactions — you bring the markup and behavior.
@@ -14,11 +14,5 @@ It handles visibility and interactions — you bring the markup and behavior.
 ## 📦 Installation
 
 ```bash
-npm install @giuliorio/dropdown
-```
-
-npm install @giuliorio/dropdown
-
-```
-
+npm install @riondino/dropdown
 ```
