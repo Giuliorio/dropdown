@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-dropdown-package",
+  "name": "@riondino/vanilla-dropdown",
   "version": "1.0.0",
   "description": "A simple and accessible dropdown component in vanilla JS.",
   "main": "dropdown.js",
