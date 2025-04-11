@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-dropdown-package",
+  "version": "1.0.0",
+  "description": "A simple and accessible dropdown component in vanilla JS.",
+  "main": "dropdown.js",
+  "keywords": [
+    "dropdown",
+    "vanilla js",
+    "ui",
+    "component"
+  ],
+  "author": "Giulio Riondino <riondino@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Giuliorio/dropdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Giuliorio/dropdown/issues"
+  },
+  "homepage": "https://github.com/Giuliorio/dropdown#readme"
+}
