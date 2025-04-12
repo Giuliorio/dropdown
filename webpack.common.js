@@ -5,7 +5,7 @@ module.exports = {
     app: './src/dropdown.js',
   },
   output: {
-    filename: '[name].bundle.js',
+    filename: 'dropdown.js',
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },

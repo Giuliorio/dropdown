@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "sideEffects": true,
   "description": "A simple and accessible dropdown component in vanilla JS.",
-  "main": "dropdown.js",
+  "main": "dist/dropdown.js",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
     "dev": "webpack serve --open --config webpack.dev.js",
