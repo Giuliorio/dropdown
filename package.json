@@ -1,6 +1,7 @@
 {
   "name": "@riondino/vanilla-dropdown",
   "version": "1.0.0",
+  "sideEffects": true,
   "description": "A simple and accessible dropdown component in vanilla JS.",
   "main": "dropdown.js",
   "keywords": [
