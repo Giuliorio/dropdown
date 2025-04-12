@@ -1,2 +1,10 @@
+src/
+node_modules/
+webpack.*
+*.config.js
+.vscode/
+test/
+examples/
+*.log
+.npmignore
 .gitignore
-index.html
