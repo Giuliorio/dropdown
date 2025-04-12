@@ -4,6 +4,12 @@
   "sideEffects": true,
   "description": "A simple and accessible dropdown component in vanilla JS.",
   "main": "dist/dropdown.js",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "webpack --config webpack.prod.js",
     "dev": "webpack serve --open --config webpack.dev.js",
